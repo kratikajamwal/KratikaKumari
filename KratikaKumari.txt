@@ -1,1 +1,2 @@
 this is a text fike--initial sentence
+modified in git master to test git merge in git hub.
